@@ -1,0 +1,7 @@
+# Virtal Env
+venv/
+GeoPandas/venv/
+'Python GeoData'/
+
+# tem files
+GeoPandas/tempCodeRunnerFile.py
